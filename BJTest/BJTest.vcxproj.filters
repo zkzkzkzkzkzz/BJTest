@@ -9,5 +9,8 @@
     <ClCompile Include="14501_퇴사.cpp">
       <Filter>08주차</Filter>
     </ClCompile>
+    <ClCompile Include="2805_나무자르기.cpp">
+      <Filter>08주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
