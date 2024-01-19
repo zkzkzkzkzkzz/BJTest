@@ -15,5 +15,8 @@
     <ClCompile Include="14890_경사로.cpp">
       <Filter>08주차</Filter>
     </ClCompile>
+    <ClCompile Include="1026_보물.cpp">
+      <Filter>08주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
