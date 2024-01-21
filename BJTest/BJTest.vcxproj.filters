@@ -21,5 +21,8 @@
     <ClCompile Include="1931_회의실배정.cpp">
       <Filter>08주차</Filter>
     </ClCompile>
+    <ClCompile Include="2251_물통.cpp">
+      <Filter>08주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
