@@ -4,6 +4,9 @@
     <Filter Include="08주차">
       <UniqueIdentifier>{a69daf0f-7b87-42ad-a6ee-2cdbfd2999e6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="09주차">
+      <UniqueIdentifier>{aaebb6e8-660d-436a-af70-ab3dc94a91cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14501_퇴사.cpp">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="2251_물통.cpp">
       <Filter>08주차</Filter>
+    </ClCompile>
+    <ClCompile Include="15686_치킨배달.cpp">
+      <Filter>08주차</Filter>
+    </ClCompile>
+    <ClCompile Include="1747_소수&amp;팰린드롬.cpp">
+      <Filter>09주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
