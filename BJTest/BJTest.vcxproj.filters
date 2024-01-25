@@ -33,5 +33,8 @@
     <ClCompile Include="1747_소수&amp;팰린드롬.cpp">
       <Filter>09주차</Filter>
     </ClCompile>
+    <ClCompile Include="2661_좋은수열.cpp">
+      <Filter>09주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
