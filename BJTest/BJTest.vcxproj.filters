@@ -42,5 +42,8 @@
     <ClCompile Include="1946_신입사원.cpp">
       <Filter>09주차</Filter>
     </ClCompile>
+    <ClCompile Include="1697_숨바꼭질.cpp">
+      <Filter>09주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
