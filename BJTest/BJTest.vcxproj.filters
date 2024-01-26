@@ -39,5 +39,8 @@
     <ClCompile Include="1987_알파벳.cpp">
       <Filter>09주차</Filter>
     </ClCompile>
+    <ClCompile Include="1946_신입사원.cpp">
+      <Filter>09주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
