@@ -48,5 +48,8 @@
     <ClCompile Include="2583_영역구하기.cpp">
       <Filter>09주차</Filter>
     </ClCompile>
+    <ClCompile Include="10026_적록색약.cpp">
+      <Filter>09주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
