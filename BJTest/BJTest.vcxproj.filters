@@ -57,5 +57,8 @@
     <ClCompile Include="21736_헌내기는친구가필요해.cpp">
       <Filter>10주차</Filter>
     </ClCompile>
+    <ClCompile Include="2606_바이러스.cpp">
+      <Filter>10주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
