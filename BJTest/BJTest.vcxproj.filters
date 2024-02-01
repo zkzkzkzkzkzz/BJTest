@@ -63,5 +63,8 @@
     <ClCompile Include="1149_RGB거리.cpp">
       <Filter>10주차</Filter>
     </ClCompile>
+    <ClCompile Include="1107_리모컨.cpp">
+      <Filter>10주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
