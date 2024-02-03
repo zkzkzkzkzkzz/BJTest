@@ -72,5 +72,8 @@
     <ClCompile Include="1865_웜홀.cpp">
       <Filter>10주차</Filter>
     </ClCompile>
+    <ClCompile Include="14502_연구소.cpp">
+      <Filter>10주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
