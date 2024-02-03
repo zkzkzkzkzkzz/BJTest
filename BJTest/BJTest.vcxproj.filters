@@ -69,5 +69,8 @@
     <ClCompile Include="9663_NQueen.cpp">
       <Filter>10주차</Filter>
     </ClCompile>
+    <ClCompile Include="1865_웜홀.cpp">
+      <Filter>10주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

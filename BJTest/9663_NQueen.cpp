@@ -51,6 +51,7 @@ int main()
 	int N;
 	cin >> N;
 
+    // board의 인덱스는 체스판의 행, board[i]에 들어있는 원소는 체스판의 열
     vector<int> board(N, -1);
 
     solution(board, 0);
