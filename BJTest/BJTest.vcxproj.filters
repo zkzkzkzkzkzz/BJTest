@@ -81,5 +81,8 @@
     <ClCompile Include="2721_삼각수의합.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="2810_컵홀더.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
