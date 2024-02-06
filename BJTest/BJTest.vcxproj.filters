@@ -10,6 +10,9 @@
     <Filter Include="10주차">
       <UniqueIdentifier>{f8a56f6c-2599-48d7-a1e6-49d9e009ff1b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="11주차">
+      <UniqueIdentifier>{5f8c657d-2fbb-4cd4-a8ca-d789dc0c6b53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14501_퇴사.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="14502_연구소.cpp">
       <Filter>10주차</Filter>
+    </ClCompile>
+    <ClCompile Include="2721_삼각수의합.cpp">
+      <Filter>11주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
