@@ -87,5 +87,8 @@
     <ClCompile Include="14465_소가길을건너간이유5.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="11279_최대힙.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
