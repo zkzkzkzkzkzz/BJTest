@@ -84,5 +84,8 @@
     <ClCompile Include="2810_컵홀더.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="14465_소가길을건너간이유5.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
