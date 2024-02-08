@@ -93,5 +93,8 @@
     <ClCompile Include="1012_유기농배추.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="9465_스티커.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
