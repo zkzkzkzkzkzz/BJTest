@@ -96,5 +96,8 @@
     <ClCompile Include="9465_스티커.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="13335_트럭.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
