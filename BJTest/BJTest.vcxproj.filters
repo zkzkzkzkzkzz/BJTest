@@ -102,5 +102,8 @@
     <ClCompile Include="12851_숨바꼭질2.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="14503_로봇청소기.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
