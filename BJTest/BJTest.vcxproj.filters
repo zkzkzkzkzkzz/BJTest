@@ -114,5 +114,14 @@
     <ClCompile Include="17070_파이프옮기기1.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="2110_공유기설치.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
+    <ClCompile Include="17144_미세먼지안녕.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
+    <ClCompile Include="14500_테트로미노.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
