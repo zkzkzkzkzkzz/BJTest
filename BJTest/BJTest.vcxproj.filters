@@ -111,5 +111,8 @@
     <ClCompile Include="12865_평범한배낭.cpp">
       <Filter>11주차</Filter>
     </ClCompile>
+    <ClCompile Include="17070_파이프옮기기1.cpp">
+      <Filter>11주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
