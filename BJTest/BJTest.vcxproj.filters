@@ -13,6 +13,9 @@
     <Filter Include="11주차">
       <UniqueIdentifier>{5f8c657d-2fbb-4cd4-a8ca-d789dc0c6b53}</UniqueIdentifier>
     </Filter>
+    <Filter Include="12주차">
+      <UniqueIdentifier>{1d08e578-253e-4558-a3e0-e16fb4ebc016}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14501_퇴사.cpp">
@@ -122,6 +125,9 @@
     </ClCompile>
     <ClCompile Include="14500_테트로미노.cpp">
       <Filter>11주차</Filter>
+    </ClCompile>
+    <ClCompile Include="1333_부재중전화.cpp">
+      <Filter>12주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
