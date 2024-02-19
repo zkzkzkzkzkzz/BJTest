@@ -129,5 +129,8 @@
     <ClCompile Include="1333_부재중전화.cpp">
       <Filter>12주차</Filter>
     </ClCompile>
+    <ClCompile Include="2512_예산.cpp">
+      <Filter>12주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
