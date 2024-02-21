@@ -135,5 +135,8 @@
     <ClCompile Include="1091_카드섞기.cpp">
       <Filter>12주차</Filter>
     </ClCompile>
+    <ClCompile Include="2780_비밀번호.cpp">
+      <Filter>12주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
