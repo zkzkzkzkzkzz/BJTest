@@ -138,5 +138,8 @@
     <ClCompile Include="2780_비밀번호.cpp">
       <Filter>12주차</Filter>
     </ClCompile>
+    <ClCompile Include="1106_호텔.cpp">
+      <Filter>12주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
