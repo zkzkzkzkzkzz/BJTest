@@ -144,5 +144,8 @@
     <ClCompile Include="7579_앱.cpp">
       <Filter>12주차</Filter>
     </ClCompile>
+    <ClCompile Include="11049_행렬곱셈순서.cpp">
+      <Filter>12주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
