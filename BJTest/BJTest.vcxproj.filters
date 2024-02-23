@@ -141,5 +141,8 @@
     <ClCompile Include="1106_호텔.cpp">
       <Filter>12주차</Filter>
     </ClCompile>
+    <ClCompile Include="7579_앱.cpp">
+      <Filter>12주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
