@@ -16,6 +16,9 @@
     <Filter Include="12주차">
       <UniqueIdentifier>{1d08e578-253e-4558-a3e0-e16fb4ebc016}</UniqueIdentifier>
     </Filter>
+    <Filter Include="13주차">
+      <UniqueIdentifier>{44301352-2857-45aa-a30a-151a50029f31}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14501_퇴사.cpp">
@@ -146,6 +149,9 @@
     </ClCompile>
     <ClCompile Include="11049_행렬곱셈순서.cpp">
       <Filter>12주차</Filter>
+    </ClCompile>
+    <ClCompile Include="10810_공넣기.cpp">
+      <Filter>13주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
