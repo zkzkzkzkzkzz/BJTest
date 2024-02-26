@@ -153,5 +153,8 @@
     <ClCompile Include="10810_공넣기.cpp">
       <Filter>13주차</Filter>
     </ClCompile>
+    <ClCompile Include="02294_동전2.cpp">
+      <Filter>13주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
