@@ -162,5 +162,8 @@
     <ClCompile Include="11399_ATM.cpp">
       <Filter>13주차</Filter>
     </ClCompile>
+    <ClCompile Include="02839_설탕배달.cpp">
+      <Filter>13주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
