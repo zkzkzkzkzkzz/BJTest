@@ -159,5 +159,8 @@
     <ClCompile Include="01764_듣보잡.cpp">
       <Filter>13주차</Filter>
     </ClCompile>
+    <ClCompile Include="11399_ATM.cpp">
+      <Filter>13주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
