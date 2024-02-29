@@ -28,9 +28,6 @@ void solution(int n)
 {
 	for (int i = 3; i <= n; ++i)
 	{
-		int a = dp[i - 3] + wine[i - 1] + wine[i];
-		int b = dp[i - 2] + wine[i];
-
 		dp[i] = max(dp[i - 1], max(dp[i - 3] + wine[i - 1] + wine[i], dp[i - 2] + wine[i]));
 	}
 
