@@ -180,5 +180,8 @@
     <ClCompile Include="01937_욕심쟁이판다.cpp">
       <Filter>13주차</Filter>
     </ClCompile>
+    <ClCompile Include="12015_가장긴증가하는부분수열2.cpp">
+      <Filter>13주차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
